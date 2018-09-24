@@ -18,3 +18,11 @@ end
 def reverse_array(arr)
   arr.reverse
 end
+
+def kesha_maker(arr)
+  new_arr = []
+  new arr <<
+  arr.each do {|string, char| char[3] = $}
+end
+end
+  
