@@ -24,5 +24,6 @@ def kesha_maker(arr)
   new arr <<
   arr.each do {|string, char| char[2] = $}
 end
-
+new_arr
+end
   
