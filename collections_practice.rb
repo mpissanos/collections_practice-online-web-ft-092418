@@ -36,8 +36,8 @@ def sum_array(arr)
 end
 
 def add_s(arr)
- arr.each_with_index.collect{|element, index| if index != 1
- element + "s"  else element}
+ arr.each_with_index.collect{|element, index| 
+ element + "s"}
 end
 end
 
