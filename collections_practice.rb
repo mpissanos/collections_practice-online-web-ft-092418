@@ -25,5 +25,6 @@ def kesha_maker(arr)
   end
 end
 
-def
+def find_a(arr)
+  
   
