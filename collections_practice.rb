@@ -37,7 +37,7 @@ end
 
 def add_s(arr)
  arr.each_with_index.collect{|element, index|
- element + "s" if index != 1 else element}
+ element + "s" if index != 1 }
 end
-end
+
   
